@@ -1,0 +1,6 @@
+[package]
+name = "scoreboard"
+version = "0.0.0"
+authors = ["negentro"]
+description = "some vanity (and sometimes useful) crate metrics"
+repository = "https://github.com/negentro/scoreboard"
